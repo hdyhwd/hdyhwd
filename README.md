@@ -10,5 +10,5 @@
 |  3 | 10-09-2025 | 03  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://docs.google.com/document/d/12YK4wH-yiguLOoGjoC6Wu_-6Ajm0NJQY0EmlGXvTyMw/edit?usp=sharing)|  [program](https://github.com/hdyhwd/modul3-modul4.git) |
 |  4 | 10-09-2025 | 04  | 	Widget Flexible dan Expanded  | [Modul 04](https://docs.google.com/document/d/1Yo2iTseF-u6alMKHlt1HE58N7JNEB67SwnVYDSjAeZA/edit?usp=sharing)|  [program](https://github.com/hdyhwd/modul3-modul4.git) |
 |  5 | 17-09-2025 | 05  | 	Widget SizedBox, Spacer, dan Card  | [Modul 05](https://docs.google.com/document/d/17UnqXn-PPHnOT1jRjDaC5cJF5awtAzLMCeRWNvy3ypw/edit?usp=sharing)|  [program](https://github.com/hdyhwd/modul5.git) |
-|  6 | 17-09-2025 | 06  | 	Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 05](https://docs.google.com/document/d/1e8tA8vHXUcUjV_k53ROihYZe05l4oNY-C2MeGyv_JjI/edit?usp=sharing)|  [program](https://github.com/hdyhwd/modul6.git) |
+|  6 | 17-09-2025 | 06  | 	Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://docs.google.com/document/d/1e8tA8vHXUcUjV_k53ROihYZe05l4oNY-C2MeGyv_JjI/edit?usp=sharing)|  [program](https://github.com/hdyhwd/modul6.git) |
 
