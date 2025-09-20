@@ -9,6 +9,6 @@
 |  2 | 03-09-2025 | 02  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 02](https://docs.google.com/document/d/1WavNG_JoORlH5WmH2hP3FRYfZnw7WoLDuHFCfXyddpY/edit?hl=id&tab=t.0 "Modul 02")|  [program](https://github.com/hdyhwd/Pemrograman_mobile.git) |
 |  3 | 10-09-2025 | 03  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://docs.google.com/document/d/12YK4wH-yiguLOoGjoC6Wu_-6Ajm0NJQY0EmlGXvTyMw/edit?usp=sharing)|  [program](https://github.com/hdyhwd/modul3-modul4.git) |
 |  4 | 10-09-2025 | 04  | 	Widget Flexible dan Expanded  | [Modul 04](https://docs.google.com/document/d/1Yo2iTseF-u6alMKHlt1HE58N7JNEB67SwnVYDSjAeZA/edit?usp=sharing)|  [program](https://github.com/hdyhwd/modul3-modul4.git) |
-
+|  5 | 17-09-2025 | 04  | 	Widget SizedBox, Spacer, dan Card  | [Modul 04](https://docs.google.com/document/d/17UnqXn-PPHnOT1jRjDaC5cJF5awtAzLMCeRWNvy3ypw/edit?usp=sharing)|  [program](https://github.com/hdyhwd/modul5.git) |
 
 
