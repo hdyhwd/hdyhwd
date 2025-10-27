@@ -15,3 +15,5 @@
 |  8 | 24-09-2025 | 08  | 	Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://docs.google.com/document/d/1wWeinlst9gCMABe6FiDquYOGAH7dRUxkI_1ASaa2ziY/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
 |  9 | 01-10-2025 | 09  | 	StatefulWidget | [Modul 09](https://docs.google.com/document/d/1cuL__dhOzpoTZORmm5ducJ2LAG0Dm0RreEwBQnrA9IY/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
 |  10 | 08-10-2025 | 10  | 	Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Modul 10](https://docs.google.com/document/d/1jmFbRwI5w3o7eQPHhBgxH8QxQr-FMt0_UAO0s49aWnA/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
+|  11 | 15-10-2025 | 11  | 	Manajemen State dengan GetX| [Modul 11](https://docs.google.com/document/d/1LyW3PDEJoLu61QiItM2hY6Rg0vvwzz6HeSdxElgAbUE/edit?usp=sharing)|  [program]() |
+
