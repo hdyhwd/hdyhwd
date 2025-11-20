@@ -18,4 +18,4 @@
 |  11 | 15-10-2025 | 11  | 	Manajemen State dengan GetX| [Modul 11](https://docs.google.com/document/d/1LyW3PDEJoLu61QiItM2hY6Rg0vvwzz6HeSdxElgAbUE/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
 |  12 | 15-10-2025 | 12  | 	UTS | [UTS](https://drive.google.com/file/d/1D99xHEKXtW7Ww0d4ereCjZ88VhsgUAYc/view?usp=sharing)|  [program](https://github.com/hdyhwd/News_App.git) |
 |  13 | 15-10-2025 | 13  | 	GPS | [Modul 12](https://docs.google.com/document/d/1s2dzqqnhLLDw8X1ie1Z6CQ0O83rEtR6XQqe1K1g00io/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
-|  14 | 15-10-2025 | 14  | 	GPS | [Modul 13](https://docs.google.com/document/d/1d4RIxGxDuBgDRVCTOFvNu4MSr0S-Z1oOJMA7TgZwCXA/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
+|  14 | 15-10-2025 | 14  | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://docs.google.com/document/d/1d4RIxGxDuBgDRVCTOFvNu4MSr0S-Z1oOJMA7TgZwCXA/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
