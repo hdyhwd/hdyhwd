@@ -16,7 +16,7 @@
 |  9 | 01-10-2025 | 09  | 	StatefulWidget | [Modul 09](https://docs.google.com/document/d/1cuL__dhOzpoTZORmm5ducJ2LAG0Dm0RreEwBQnrA9IY/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
 |  10 | 08-10-2025 | 10  | 	Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Modul 10](https://docs.google.com/document/d/1jmFbRwI5w3o7eQPHhBgxH8QxQr-FMt0_UAO0s49aWnA/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
 |  11 | 15-10-2025 | 11  | 	Manajemen State dengan GetX| [Modul 11](https://docs.google.com/document/d/1LyW3PDEJoLu61QiItM2hY6Rg0vvwzz6HeSdxElgAbUE/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
-|  12 | 15-10-2025 | 12  | 	UTS | [UTS](https://drive.google.com/drive/folders/1cGiI_4XuJllNizQ_-prvdL0T_A1Odjwe?usp=sharing)|  [program](https://github.com/hdyhwd/News_App.git) |
+|  12 | 15-10-2025 | 12  | 	UTS | [UTS](https://drive.google.com/drive/folders/1cGiI_4XuJllNizQ_-prvdL0T_A1Odjwe?usp=sharing)|  [program](https://github.com/hdyhwd/Movie_Explorer) |
 |  13 | 15-10-2025 | 13  | 	GPS | [Modul 12](https://docs.google.com/document/d/1s2dzqqnhLLDw8X1ie1Z6CQ0O83rEtR6XQqe1K1g00io/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
 |  14 | 13-11-2025 | 14  | 	Menampilkan lokasi terkini dengan maps ||  [program](https://github.com/hdyhwd/mobile.git) |
 |  15 | 20-11-2025 | 15  | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://docs.google.com/document/d/1d4RIxGxDuBgDRVCTOFvNu4MSr0S-Z1oOJMA7TgZwCXA/edit?usp=sharing)|  [program](https://github.com/hdyhwd/mobile.git) |
